@@ -1,0 +1,20 @@
+[
+    {
+      "id": "store1",
+      "name": "Paddle Clash",
+      "version": "0.1 beta",
+      "description": "Paddle Clash is a fast-paced, modern twist on classic Pong where you battle opponents with unique paddles in exciting, addictive paddle duels.",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1Wgrlv4iAnRuIINF81KAaaoPBdvQpsbRQ",
+      "thumbnailUrl": "https://raw.githubusercontent.com/runepro123/game_laucneher_files/main/Schermafbeelding%202025-06-09%20205349.png",
+      "publisher": "dev city studio",
+      "developer": "dev city studio",
+      "releaseDate": "2023-05-15",
+      "price": 0,
+      "tags": ["Action", "Adventure", "RPG"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/runepro123/game_laucneher_files/main/Schermafbeelding%202025-06-09%20202829.png",
+        "https://raw.githubusercontent.com/runepro123/game_laucneher_files/main/Schermafbeelding%202025-06-09%20205349.png"
+      ],
+      "sizeInMB": 10.5
+    }
+  ]
